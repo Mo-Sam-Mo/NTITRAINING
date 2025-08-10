@@ -1,5 +1,5 @@
-# NTITRAINING
+# NTI Training
 
-## Welcome to the first day of NTI Computer Vision Track
+## Welcome to the first day of NTI Computer Vision Track.
 
-To the Youth of the future
+To the Youth of the future.
